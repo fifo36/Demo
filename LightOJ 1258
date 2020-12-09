@@ -1,0 +1,6 @@
+Problem Link: 1258 - Making Huge Palindromes
+Solution Hint:
+We are allowed to add characters only right side of the given string to make
+the string palindrome. We can do it adding at most (n-1) characters in right
+side (n denotes → string length). But we have to minimize it as much as
+possible. Let’s, observe the following strings:
